@@ -12,7 +12,14 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak basit bir balon patlatma oyunudu
 * Oyunu tekrar oynamak için sayfandaki "Tekrar Oyna" butonunu kullanabilirsiniz.
 
 ## Oynanış Ekran Görüntüleri
+Sayfamıza giriş yaptığımızda karşımıza oyunun nasıl oynanacağını tek bir cümleyle anlatan bir paragraf çıkıyor ve oyunumuz başlamış oluyor.
+![gamebegin.png](gamebegin.png)
 
+Bize verilen zaman dahilinde elimizden geldiği kadar balonu patlıyoruz ve zaman bittiğinde skorumuz bize bir alert olarak geliyor.
+![gameending.png](gameending.png)
+
+Tekrardan oynamak istersek "Tekrar Oyna" butonundan oyunumuzu tekrardan başlatabiliriz.
+![playagain.png](playagain.png)
 
 
 ## Nasıl Kurabilirim
