@@ -1,7 +1,7 @@
 
 # Balonları Patlatma Oyunu
 
-Bu proje, HTML, CSS ve JavaScript kullanarak basit bir balon patlatma oyunu geliştirmektedir. Oyuncuların, verilen süre içinde mümkün olan en yüksek skoru elde etmeleri amaçlanmaktadır.
+Bu proje, HTML, CSS ve JavaScript kullanılarak basit bir balon patlatma oyunudur. Oyuncuların, verilen süre içinde mümkün olan en yüksek skoru elde etmeleri amaçlanmaktadır.
 
 ## Nasıl Oynanır
 * https://definetelynotarobot.github.io/Balonlari-Patlatma-Oyunu/ linkinden oyuna erişim sağlayabilirsiniz.
@@ -9,7 +9,7 @@ Bu proje, HTML, CSS ve JavaScript kullanarak basit bir balon patlatma oyunu geli
 * Patlatılan her balon için, oyunculara bir puan verilir.
 * Oyun 30 saniye sürer.
 * Oyunun sonunda, oyuncuların aldıkları puanlar ekranda gösterilir.
-* Oyunu tekrar oynamak için sayfanın en altındaki "Tekrar Oyna" butonunu kullanabilirsiniz.
+* Oyunu tekrar oynamak için sayfandaki "Tekrar Oyna" butonunu kullanabilirsiniz.
 
 
 ## Nasıl Kurabilirim
