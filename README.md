@@ -11,6 +11,9 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak basit bir balon patlatma oyunudu
 * Oyunun sonunda, oyuncuların aldıkları puanlar ekranda gösterilir.
 * Oyunu tekrar oynamak için sayfandaki "Tekrar Oyna" butonunu kullanabilirsiniz.
 
+## Oynanış Ekran Görüntüleri
+
+
 
 ## Nasıl Kurabilirim
 
@@ -23,5 +26,8 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak basit bir balon patlatma oyunudu
 * HTML
 * CSS
 * Vanilla JavaScript
+
+## Proje Tanıtım Videosu
+
 
 
