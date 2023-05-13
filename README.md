@@ -3,6 +3,11 @@
 
 Bu proje, HTML, CSS ve JavaScript kullanılarak basit bir balon patlatma oyunudur. Oyuncuların, verilen süre içinde mümkün olan en yüksek skoru elde etmeleri amaçlanmaktadır.
 
+## Proje Tanıtım Videosu
+Projemi tanıttığım videoya aşağıdaki linkten ulaşabilirsiniz!
+
+https://youtu.be/az_F5br4b8Q
+
 ## Nasıl Oynanır
 * https://definetelynotarobot.github.io/Balonlari-Patlatma-Oyunu/ linkinden oyuna erişim sağlayabilirsiniz.
 * Oyuncular, balonları patlatmak için farelerinin sol tık butonunu kullanmalıdır.
@@ -33,8 +38,5 @@ Tekrardan oynamak istersek "Tekrar Oyna" butonundan oyunumuzu tekrardan başlata
 * HTML
 * CSS
 * Vanilla JavaScript
-
-## Proje Tanıtım Videosu
-
 
 
